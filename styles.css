@@ -1,0 +1,33 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+}
+
+.container {
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+
+#about {
+  background-image: url('../images/it-background.jpg');
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  padding: 100px 0;
+  text-align: center;
+}
+
+#services, #resume {
+  background-color: #fff;
+  padding: 60px 0;
+  text-align: center;
+}
+
+h1, h2 {
+  margin-bottom: 20px;
+}
